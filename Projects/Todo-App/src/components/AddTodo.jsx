@@ -10,7 +10,7 @@ function AddTodo() {
         </div>
         <div className="col-2">
           <button type="button" className="btn btn-success button">
-            Add
+            Add new item
           </button>
         </div>
       </div>
